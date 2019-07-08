@@ -1,2 +1,2 @@
 ## ElasticSearch
-[ElasticSearch基础概念](ElasticSearch基础概念.md)
+[ElasticSearch基础概念](elasticsearch/ElasticSearch基础概念.md)
