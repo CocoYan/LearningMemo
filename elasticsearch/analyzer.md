@@ -9,7 +9,7 @@
 2. 按词切分；
 3. 小写转换
 
-## Simple Analyzer
+### Simple Analyzer
 1. 按非字母切分，去掉非字母的字符；
 2. 小写转换
 
