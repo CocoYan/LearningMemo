@@ -71,3 +71,6 @@ Information Retrieval
 `True positive / (True positive + True negative)`
 
 * Ranking - 是否能够按照相关度进行排序？
+
+-----------------------
+*记于2019-07-14*
